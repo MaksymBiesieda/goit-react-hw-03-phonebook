@@ -1,0 +1,13 @@
+.container {
+    margin: 30px auto;
+    width: 1200px;
+    padding: 30px;
+}
+
+.title {
+    font-size: 70px;
+}
+
+.contacts_title {
+    font-size: 50px;
+}

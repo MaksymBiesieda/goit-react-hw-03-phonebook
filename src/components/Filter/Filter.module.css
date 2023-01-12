@@ -1,0 +1,11 @@
+.filter_input {
+    display: block;
+    height: 25px;
+    width: 200px;
+    margin-top: 10px;
+    border: 1px solid grey;
+}
+
+.filter_label {
+    font-size: 20px;
+}
